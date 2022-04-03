@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Э2.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Э2.SchDoc|FileName=Э3-1 УВ ЦАП.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Э2.SchDoc|FileName=Э3-2 УВ Компаратор.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Э2.SchDoc|FileName=Э3-3 Внешний триггер.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Э2.SchDoc|FileName=Э3-4 TDR Делитель.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Э2.SchDoc|FileName=Э3-5 TDR Генератор.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Э2.SchDoc|FileName=Э3-6 Электропитание.SchDoc|SheetNumber=7
